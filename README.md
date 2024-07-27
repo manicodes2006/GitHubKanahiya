@@ -1,4 +1,5 @@
-![logo](https://res.cloudinary.com/dzello/image/upload/w_1583,h_750,c_fill/developermode/developermode-logo-white)
+![logo](![best -banner](https://github.com/user-attachments/assets/6c603045-b10d-4a20-ac76-79e404b31cf9)
+)
 <h1 align="center">Hi 👋, I'm Kanhiya Kumar</h1>
 <h3 align="center">I'm a Passionate for Problem Solving and MERN Stack Developer from India 🏳️‍🌈</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
