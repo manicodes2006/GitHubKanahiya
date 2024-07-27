@@ -1,10 +1,10 @@
-![best -banner](https://github.com/user-attachments/assets/6c603045-b10d-4a20-ac76-79e404b31cf9)
+
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">I'm a Passionate for Problem Solving and MERN Stack Developer from India 🏳</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubkanahiya&label=Profile%20views&color=0e75b6&style=flat" alt="githubkanahiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manicodes2006&label=Profile%20views&color=0e75b6&style=flat" alt="manicodes2006" /> </p>
 
 - 🌱 I’m currently learning **full stack web dev**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%20manish-kumar-267259293"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manish kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/k4.anhiya__000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k4.anhiya__000" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itz.manishhh0007?igsh=NXVla2w2azcxYzF0" target="blank">"itz.manishhh0007"<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github.com/manicodes2006" alt="manicodes2006" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubkanahiya&show_icons=true&locale=en" alt="githubkanahiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manicodes2006&show_icons=true&locale=en" alt="manicodes2006" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubkanahiya&" alt="githubkanahiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubkmanicodes2006&" alt="manicodes2006" /></p>
